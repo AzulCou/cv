@@ -3,7 +3,8 @@
 Analytics Consultant with 2 years of experience in Business Analytics Consulting <br>
 
  [LinkedIn](https://www.linkedin.com/in/safalta-kundra/) |
- [stackoverflow](https://stackoverflow.com/users/9083130/azulcou)
+ [stackoverflow](https://stackoverflow.com/users/9083130/azulcou) |
+ [github](https://github.com/AzulCou)
  
 
 ## 👩🏼‍💻 Tech Stack
