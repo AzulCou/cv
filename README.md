@@ -36,6 +36,9 @@ digital implementation using Raspberry Pi.
  
 ## 👩🏼‍🎓 Certifications 
 **ML Coding: Tensorflow**  <br>
+@ [Post Graduate Certification in Foundation of Data Science by IIIT Bangalore](https://www.credential.net/742427bf-6b3a-415d-b236-3ba227562016#gs.7nig0a) <br>
+
+**ML Coding: Tensorflow**  <br>
 @ [Introduction to TensorFlow](https://coursera.org/share/9ae4c8233f232007fed7097df480b371) <br>
 @ [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/cf2ea6dbe4869543293f50ec7a09a7d3) <br>
  - **_Course List of TensorFlow Developer:_**  <br>
