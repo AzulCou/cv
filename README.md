@@ -13,12 +13,16 @@ Analytics Consultant with 2 years of experience in Business Analytics Consulting
 - CPP, NLP, GCP, SQL, Spark, HTML, CSS, Excel, KNIME
 - Hadoop, R, Scala, Linux Commands, PyTorch, TensorFlow 
  
-## Technical Experience
+## Technical Experience and Achievements
 
 **Analytics Consultant** @ [Fractal Analytics](https://fractal.ai/) _(July 2019 - Present)_ <br>
 
   - **_Technologies and Libraries used:_** Python, Azure Databricks, Power BI, SQL(limited), KNIME,TensorFlow, Keras, Openpyxl, Sklearn, Numpy, Pandas and Python STL
 <br><br>
+
+**Smart India Hackathon Finalist** _(March 2019)_ <br>
+
+- Worked on Patient Case Similarity for SIH Finale which involved DL models, major role being to research existing architectures and perform Data Analysis to find out best features for CNN - LSTM model 
 
 **Python and NLP, Mentor** _(June 2019)_ <br>
 
@@ -56,11 +60,6 @@ digital implementation using Raspberry Pi.
 **ML Production and Others**  <br>
 @ [Apache Spark (TM) SQL for Data Analysts](https://coursera.org/share/647323683efc993248ec2633bbe0039e) <br>
 @ [Introduction to Machine Learning in Production](https://coursera.org/share/b728fdb72f5f862101f9de2486715df9) <br>
-
-
-
-
-
 
 
 
