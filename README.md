@@ -18,7 +18,6 @@ Analytics Consultant with 2 years of experience in Business Analytics Consulting
 **Analytics Consultant** @ [Fractal Analytics](https://fractal.ai/) _(July 2019 - Present)_ <br>
 
   - **_Technologies and Libraries used:_** Python, Azure Databricks, Power BI, SQL(limited), KNIME,TensorFlow, Keras, Openpyxl, Sklearn, Numpy, Pandas and Python STL
-<br>
 
 **Smart India Hackathon Finalist** _(March 2019)_ <br>
 
